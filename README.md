@@ -12,6 +12,6 @@ _Este projeto consiste na criação de um blog em PHP com uso de HTML,CSS e com 
 
 ------------------------------------------
 
-<h4>Vizualização da página quando se acessa um post.</h4>
+<h1>Vizualização da página quando se acessa um post.</h1>
 
 ![paginas.png](/img/paginas.png "paginas responsivo")
