@@ -1,7 +1,7 @@
 <h1>Blog</h1>
 <br>  
 
-_Este projeto consiste na criação de um blog em PHP com uso de HTML,CSS e com responsividade._
+_Este projeto consiste na criação de um blog em PHP com uso de HTML,CSS e responsividade._
 <br>
 <br>    
 
